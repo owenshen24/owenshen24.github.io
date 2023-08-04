@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 include: ["_pages"]
 permalink: /:title/
-locale: 'zh-cn'
+locale: 'en'
 
 # Authors
 authors:
