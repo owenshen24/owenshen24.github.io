@@ -1,7 +1,7 @@
 # Site
-name: "Kothing"
-title: "Kothing"
-description: "Kothing bloggers. Review products, books, movies, restaurant and anything you like on your blog with Kothing"
+name: "Owen Shen"
+title: "Owen Shen"
+description: "Owen Shen blogs about technology, open source and IT-related stuff"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -11,23 +11,23 @@ locale: 'zh-cn'
 
 # Authors
 authors:
-  Kothing:
-    name: Kothing
-    display_name: Kothing
+  Owen:
+    name: Owen
+    display_name: Owen
     gravatar: 2c8b65b07e824ea91b649a8c57af8a28
-    email: 'kothing@outlook.com'
-    web: https://www.kothing.com
+    email: 'OwenShen24@outlook.com'
+    web: https://OwenShen24.github.io
     twitter: ''
-    description: "Author of Kothing, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  Lyove:
-    name: Lyove
-    display_name: Lyove    
+    description: "Author of OwenShen24 blog"
+  Liove:
+    name: Liove
+    display_name: Liove    
     avatar: 'assets/images/avatar.png'
     gravatar: 8d1f1b3a0bd5557ee60cb3277f1c0497
-    email: 'lyove@outlook.com'
-    web: https://www.lyove.com
+    email: 'Liove@outlook.com'
+    web: 
     twitter: ''
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Kothing demo, a Jekyll template compatible with Github pages."
+    description: "This is the new author"
 
 # Plugins
 plugins:
