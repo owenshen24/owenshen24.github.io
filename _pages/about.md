@@ -204,18 +204,16 @@ lazyimages: "enabled"
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/kothing/kothing-theme">Github repository</a>!</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Sidebar text</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/kothing/kothing-theme">Kothing <i class="fab fa-github"></i></a>.</p>
+<p>Thank you for your support!.</p>
 
-<a target="_blank" href="https://www.paypal.me/chzng" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://kothing.github.io/about" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
