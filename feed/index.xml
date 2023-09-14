@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Owen Shen</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 14 Sep 2023 09:27:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Primer</title>
+		<link>/primer/</link>
+					<comments>/primer/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 14 Sep 2023 09:27:27 +0000</pubDate>
+				<category><![CDATA[Misclaneous]]></category>
+		<guid isPermaLink="false">/?p=100</guid>
+
+					<description><![CDATA[Aside from the musings on mindlevelup, I’ll periodically churn out much larger, more researched essays that are accompanied by illustrative graphics. The images all have a consistent flat style; they&#8217;re adorably designed to entice you to read the hefty, multi-thousand word essay within. Planning 101: Habits 101: Attractor Theory: The Ancient God Who Rules High ... <a title="Primer" class="read-more" href="/primer/" aria-label="More on Primer">Read more</a>]]></description>
+		
+					<wfw:commentRss>/primer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Death: Reality vs Reported</title>
+		<link>/charting-death/</link>
+					<comments>/charting-death/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 14 Sep 2023 09:17:50 +0000</pubDate>
+				<category><![CDATA[Misclaneous]]></category>
+		<guid isPermaLink="false">/?p=95</guid>
+
+					<description><![CDATA[Data collection and analysis by Hasan Al-Jamaly, Maximillian Siemers, Owen Shen, and Nicole Stone. Background: How do people die? How do people&#160;think&#160;we die? And is there a difference? Well, it turns out there&#8217;s a&#160;fascinating study&#160;conducted by Paul Slovic and Barbara Combs where they looked at how often different types of deaths were mentioned in the news. They then compared ... <a title="Death: Reality vs Reported" class="read-more" href="/charting-death/" aria-label="More on Death: Reality vs Reported">Read more</a>]]></description>
+		
+					<wfw:commentRss>/charting-death/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
