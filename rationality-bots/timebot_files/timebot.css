@@ -1,0 +1,123 @@
+h1, p, input, .form, .Submit, .reset, a, ul{
+    font-family: "Century Gothic", Helvetica, sans-serif;
+    color:rgb(102, 153, 153);
+}
+
+img {
+    width: 170px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(100, 130, 178);
+}
+
+body {
+    text-align: center;
+}
+
+.enter {
+    font-size: 1.75em;
+    width: 75%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    word-wrap: break-word;
+}
+
+.questions {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.button {
+    font-family: "Century Gothic", Helvetica, sans-serif;
+    background-color: rgb(102, 153, 153);
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 4px 2px;
+}
+
+.make {
+    background-color: rgb(12, 153, 153);
+}
+
+.button:hover {
+    background-color: rgb(51, 77, 77);
+}
+
+
+/*Animation to make the Make Schedule button look like it's pulsing*/
+.make {
+    -webkit-animation: fader 2s infinite  alternate;
+    animation: fader 2s infinite  alternate;
+}
+@-webkit-keyframes fader {
+0%,100% { opacity: 0.5 }
+  50% { opacity: 1 }
+}
+@keyframes fader {
+0%,100% { opacity: 0.5 }
+  50% { opacity: 1 }
+}
+
+
+/* Formatting for the schedule goes here */
+ul {
+    list-style-type: none;
+}
+
+.finalschedule {
+    margin-left: 10%;
+    text-align: left;
+    font-weight: bold;
+    line-height: 2em;
+    font-size: 1.7em;
+}
+
+.break {
+    color:rgb(183, 45, 128);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 18:57:55 Nov 07, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:56:10 Sep 15, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 109.774
+  exclusion.robots: 0.09
+  exclusion.robots.policy: 0.077
+  cdx.remote: 0.075
+  esindex: 0.011
+  LoadShardBlock: 70.064 (3)
+  PetaboxLoader3.datanode: 66.075 (5)
+  load_resource: 105.709
+  PetaboxLoader3.resolve: 89.521
+  loaddict: 9.853
+*/
